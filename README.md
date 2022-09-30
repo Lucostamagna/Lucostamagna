@@ -8,7 +8,7 @@
 I'm a teacher and I'm full-stack web developer with a strong inclination towards frontend development and design. 
 I'm empathic, friendly, self-critical and self-sufficient. I love books and cats.
 
-.                    :cat: :compute: :books: :hearts:      
+:cat: :compute: :books: :hearts:      
 
 ### What I've learned so far :computer:
 
