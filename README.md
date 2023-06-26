@@ -2,9 +2,9 @@
 Lucía</a></h1>
 
 <h3 align="center">A passionate Mobile App developer from Argentina </h3>
-<p></p>https://komarev.com/ghpvc/?username=Lucostamagna</p>
-
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 ### :information_desk_person: Who I am
 
 I'm a teacher and I'm full-stack web developer with a strong inclination towards frontend development and design. 
