@@ -2,7 +2,7 @@
 Lucía</a></h1>
 
 <h3 align="center">A passionate Mobile App developer from Argentina </h3>
-<p align="left"> <img src=["https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc"](https://komarev.com/ghpvc/?username=Lucostamagna) /> </p>
+<p></p>https://komarev.com/ghpvc/?username=Lucostamagna</p>
 
 
 ### :information_desk_person: Who I am
