@@ -3,7 +3,7 @@ Lucía</a></h1>
 
 <h3 align="center">A passionate Mobile App developer from Argentina </h3>
 <a target="_blank" align="center">
-  <img align="right" top="900" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
+  <img align="right" top="900" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 <br/>
