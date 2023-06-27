@@ -14,16 +14,14 @@ Lucía</a></h1>
  
  -🔭 I love the design and I'm improving it
  
+-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉
+
+-📖 Passionate about teaching. I am a teacher with more than six years of experience.
+ 
 -📫 How to reach me **costamagnalucia@hotmail.com**
 <br/>
+<br/>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 
-I look forward to learning more and more about software development.
-
-
-### Where I'm headed :collision:
-
-I'm going to meet goals and grow in the IT world to earn a space where I can develop professionally
-
-
-feel free to [contact me](https://www.linkedin.com/in/luciacostamagna). I'm always open to receiving helpful feedback. :wave:
