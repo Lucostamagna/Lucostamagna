@@ -3,27 +3,20 @@ Lucía</a></h1>
 
 <h3 align="center">A passionate Mobile App developer from Argentina </h3>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="900" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 </a>
-### :information_desk_person: Who I am
 
-I'm a teacher and I'm full-stack web developer with a strong inclination towards frontend development and design. 
-I'm empathic, friendly, self-critical and self-sufficient. I love books and cats.
+<br/>
 
-:cat: :computer: :books: :hearts:      
+ -🌱 I’m Full Stack Developer with a strong inclination towards frontend development 
+ 
+ -🌱 I’m currently Working on Mobile App(React-Native)
+ 
+ -🔭 I love the design and I'm improving it
+ 
+-📫 How to reach me **costamagnalucia@hotmail.com**
+<br/>
 
-### What I've learned so far :computer:
-
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
--TypeScript
-- React  -React Native
-- Redux
-- Node 
-- Express
-- SQL & Sequelize
 
 I look forward to learning more and more about software development.
 
